@@ -1,6 +1,6 @@
 <img src="WBanner.gif" style="max-width: 100%;" />
 
-<h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> Howdy pal! ℝ𝕒𝕗𝕚 𝔾𝕖𝕠𝕧𝕒𝕫𝕚 here, My 1st acc was suspended, no wonder this one’s lame af👶🏽</h1>
+<h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> Howdy pal! ℝ𝕒𝕗𝕚 𝔾𝕖𝕠𝕧𝕒𝕫𝕚 here, My 1st acc was suspended, no wonder this one’s lame asl👶🏽</h1>
 
 ## <img src="emoji/rabbit-dance_pbj.gif" width="25"/> 𝖠ᑲ𝗈υ𝗍 𝖬౿:
 <table>
