@@ -1,6 +1,6 @@
 <img src="WBanner.gif" style="max-width: 100%;" />
 
-<h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> Howdy pal! ℝ𝕒𝕗𝕚 𝔾𝕖𝕠𝕧𝕒𝕫𝕚 here, My 1st acc was suspended, no wonder this one’s lame asl👶🏽</h1>
+<h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> Howdy pal! ℝ𝕒𝕗𝕚 𝔾𝕖𝕠𝕧𝕒𝕫𝕚 here, My 1st acc was suspended, so don’t expect much from this one👶🏽</h1>
 
 ## <img src="emoji/rabbit-dance_pbj.gif" width="25"/> 𝖠ᑲ𝗈υ𝗍 𝖬౿:
 <table>
@@ -80,11 +80,11 @@
 
 ## ᘜɩtᖾᥙᑲ ᔑtⲁt⳽<img src="emoji/sonic-dance.gif" width="50"/>
 
-![](https://github-readme-stats.vercel.app/api?username=rafigeovazi2&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=rafigeovazi2&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 <img height="500" width="150" src="left.png"/>
-![](https://nirzak-streak-stats.vercel.app/?user=rafigeovazi2&theme=outrun&hide_border=true)
+![](https://streak-stats.demolab.com/?user=rafigeovazi2&theme=outrun&hide_border=true)
 <img height="500" width="150" src="right.png"/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafigeovazi2&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafigeovazi2&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## <img src="emoji/knuckles.gif" width="38"/>ᘜɩtᖾᥙᑲ Ʈɾoρᖾɩᥱ⳽
 
@@ -97,7 +97,6 @@
 ## <img src="emoji/yoshi_spin.gif" width="20"/> Ʈoρ ᙅoᥒtɾɩᑲᥙtᥱᑯ ᖇᥱρo
 
 ![](https://github-contributor-stats.vercel.app/api?username=rafigeovazi2&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=rafigeovazi2&icon=4&color=0)](https://visitcount.itsvg.in)
 
 ## 𝖧౿ᥣρ ᑲɣ 𝖣𝗈𐓣ⲁ𝗍ɩᥒɠ (𝖨'ო 𝖡𝗋𝗈ƙ౿ ⲁｷ)<img src="emoji/ant-meme_q.png" width="40"/>
 
