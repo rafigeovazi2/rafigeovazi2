@@ -10,8 +10,8 @@
         ☝️🤓 𝚅̲𝚎̲𝚛̲𝚒̲𝚏̲𝚒̲𝚎̲𝚍̲ 𝙽̲𝚎̲𝚛̲𝚍̲ <img src="emoji/bluetick.png" width="19"/>
         <li>🤖 IoT-ML Aficionado 💻</li>
         <li>🚀 Science Junkie ||| Space Explorer 🔭</li>
-        <li>🧬 BioTech ||| NeuroTechnology Enthusiast 🧠</li>
-        <li>📺 Filmaholic ||| Music Geek 🎧</li>
+        <li>🧬 BioTech/NeuroTech Enthusiast 🧠</li>
+        <li>📺 Filmaholic X Music Geek 🎧</li>
         <li>🦇 Nocturnal</li>
         <li>🥷 Nonchalant</li>
         <br/>
