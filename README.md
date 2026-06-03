@@ -106,11 +106,6 @@
 <br/>
 <img src="paypal_qr.png" width="200" height="200" />
 <br/>
-<a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Dana-007FFF?style=for-the-badge&logo=&logoColor=white&labelColor=FFFFFF" alt="Codedex"/>
-</a>
-<br/>
-<img src="dana_qr.jpeg" width="200" height="200" />
 
 ---
 ## 𝖪౿౿ρ ᔑɣɳⲁυ
