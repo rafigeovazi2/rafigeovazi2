@@ -9,8 +9,7 @@
       <ul>
         ☝️🤓 𝚅̲𝚎̲𝚛̲𝚒̲𝚏̲𝚒̲𝚎̲𝚍̲ 𝙽̲𝚎̲𝚛̲𝚍̲ <img src="emoji/bluetick.png" width="19"/>
         <li>🤖 IoT-DS Buff 💻</li>
-        <li>🚀 Science Junkie ||| Space Observer 🔭</li>
-        <li>🧬 BioTech/NeuroTech Enthusiast 🧠</li>
+        <li>🚀 Science Junkie | Space Observer 🔭</li>
         <li>📺 Filmaholic X Music Geek 🎧</li>
         <li>🦇 Nocturnal</li>
         <li>🥷 Nonchalant</li>
@@ -60,6 +59,9 @@
   <a href="https://discordapp.com/users/bugz_slayer" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <a href="https://monkeytype.com/profile/GeoslinG" target="_blank">
+    <img src="https://img.shields.io/badge/Monkeytype-FFDC44?style=for-the-badge&logo=monkeytype&logoColor=black" alt="Monkeytype"/>
+</a>
    <a href="https://stackoverflow.com/users/30532775/geosling" target="_blank">
      <img src="https://img.shields.io/badge/StackOverflow-FFFFFF?style=for-the-badge&logo=stackoverflow&logoColor=FE7A16&labelColor=FFFFFF&color=FFFFFF"alt="StackOverflow"/>
   </a>
